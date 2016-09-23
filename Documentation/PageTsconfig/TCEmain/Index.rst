@@ -434,8 +434,8 @@ disableHideAtCopy
          boolean
 
    Description
-         Disables the "hideAtCopy" feature (if configured for the table in
-         :code:`$GLOBALS['TCA']`).
+         Disables the "hideAtCopy" feature. This feature needs to be activated for the table in
+         :code:`$GLOBALS['TCA']`)!
 
          For an example, see :ref:`disablePrependAtCopy <pagetcemaintables-disableprependatcopy>`
          above.
